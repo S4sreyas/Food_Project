@@ -1,7 +1,6 @@
 import streamlit as st
 import tensorflow as tf
 from tensorflow.keras.preprocessing import image
-import matplotlib.pyplot as plt
 import numpy as np
 import requests
 
